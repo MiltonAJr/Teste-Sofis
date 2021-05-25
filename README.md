@@ -40,4 +40,4 @@ Respostas:
 24) EF pode servir como um mapeador relacional de objeto (O/RM), que:
     - Permite que os desenvolvedores do .NET trabalhem com um banco de dados usando objetos .NET.
     - Elimina a necessidade da maior parte do código de acesso a dados que normalmente precisa ser escrito.
-25) disponível neste repositório
+25) disponível aqui: https://github.com/MiltonAJr/Teste-Sofis/blob/main/ConsoleApp1/ConsoleApp1/Program.cs
